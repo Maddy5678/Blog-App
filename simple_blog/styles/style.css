@@ -1,0 +1,10 @@
+body{
+    background-image: url('./images.jpeg');
+    background-size: cover;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xxx-large;
+    color: gray;
+}
